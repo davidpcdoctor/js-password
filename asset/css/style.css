@@ -1,0 +1,11 @@
+body { 
+    margin:0;
+    padding:0;
+    background: url(../images/0091967780bfa906ea04b819991659ae.jpg) no-repeat center fixed; 
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+
+
+    color:rgb(255, 94, 0);
+    font-size: 1.3em;
+  }
